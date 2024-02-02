@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanner Kleintop</h1>
-![](https://www.behance.net/gallery/47917999/Train-city/modules/285822339)
 <h3 align="center">A passionate student currently studying at Pennsylvania State University</h3>
 
 - 🔭 I’m currently working on **various projects related to my degree.**
