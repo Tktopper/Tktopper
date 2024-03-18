@@ -8,31 +8,28 @@
     </h1>
 </div>
 
-<p align="center"> 
-  <samp>
-    「 I am a Computer Engineering college student located currently in the <b>USA</b> 」
-    <br>
-    <br>
+
+
+
+<!-- About Section -->
+ <div align="center">
+    <h2>🚀 About Me</h2>
+    <p>I'm a current fourth-year student majoring in computer engineering with a minor in cybersecurity. I enjoy coding, hardware development, and collaborating with people on projects.</p>
+</div>
+<br>
+<p>  
+🔭 &emsp; I’m currently working on various projects related to my degree.<br/><br/>
+✌️ &emsp; I enjoy programming and learning new things <br/><br/>
+📫 &emsp; Feel free to contact me at taktopper@gmail.com<br/><br/>
+</p>
   </samp>
 </p>
 
 <p align="center"> 
  <a href="https://www.linkedin.com/in/tanner-kleintop-260435268/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
- </a>
-<p align="center">
   <a href="https://github.com/Tktopper?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-</p>
-
-
-<!-- About Section -->
- # About me
- 
-<p>  
-🔭 &emsp; I’m currently working on various projects related to my degree.<br/><br/>
-✌️ &emsp; I enjoy programming and learning new things <br/><br/>
-📫 &emsp; Feel free to contact me at taktopper@gmail.com<br/><br/>
 </p>
 
 <br/>
