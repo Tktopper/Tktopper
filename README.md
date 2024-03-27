@@ -14,7 +14,7 @@
 <!-- About Section -->
  <div align="center">
     <h2>🚀 About Me</h2>
-    <p>I'm a current fourth-year student majoring in computer engineering with a minor in cybersecurity. I enjoy coding, hardware development, and collaborating with people on projects.</p>
+    <p>I'm a current third-year student majoring in computer engineering with a minor in cybersecurity. I enjoy coding, hardware development, and collaborating with people on projects.</p>
 </div>
 <br>
 <p>  
